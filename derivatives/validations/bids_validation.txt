@@ -6,7 +6,7 @@ Valid keys in each object include `"URL"`, `"DOI"` (see
 `"Version"` with
 [string](https://www.w3schools.com/js/js_json_datatypes.asp)
 values.
-
+ - rules.dataset_metadata.dataset_description
 
 	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.
 
@@ -14,152 +14,464 @@ values.
 		StimulusPresentation
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_events.tsv - Field description: Object containing key-value pairs related to the software used to present
 the stimuli during the experiment.
-
+ - rules.sidecars.events.StimulusPresentation
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_events.tsv - Field description: Object containing key-value pairs related to the software used to present
 the stimuli during the experiment.
-
-
-		8 more files with the same issue
+ - rules.sidecars.events.StimulusPresentation
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
+ - rules.sidecars.events.StimulusPresentation
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
+ - rules.sidecars.events.StimulusPresentation
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
+ - rules.sidecars.events.StimulusPresentation
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
+ - rules.sidecars.events.StimulusPresentation
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
+ - rules.sidecars.events.StimulusPresentation
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
+ - rules.sidecars.events.StimulusPresentation
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
+ - rules.sidecars.events.StimulusPresentation
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
+ - rules.sidecars.events.StimulusPresentation
 
 		InstitutionAddress
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: The address of the institution in charge of the equipment that produced the
 measurements.
-
+ - rules.sidecars.microephys.microephysInstitutionInformation
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: The address of the institution in charge of the equipment that produced the
 measurements.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: The address of the institution in charge of the equipment that produced the
+measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: The address of the institution in charge of the equipment that produced the
+measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: The address of the institution in charge of the equipment that produced the
+measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: The address of the institution in charge of the equipment that produced the
+measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: The address of the institution in charge of the equipment that produced the
+measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: The address of the institution in charge of the equipment that produced the
+measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: The address of the institution in charge of the equipment that produced the
+measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: The address of the institution in charge of the equipment that produced the
+measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
 
 		InstitutionalDepartmentName
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: The department in the institution in charge of the equipment that produced
 the measurements.
-
+ - rules.sidecars.microephys.microephysInstitutionInformation
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: The department in the institution in charge of the equipment that produced
 the measurements.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: The department in the institution in charge of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: The department in the institution in charge of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: The department in the institution in charge of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: The department in the institution in charge of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: The department in the institution in charge of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: The department in the institution in charge of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: The department in the institution in charge of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: The department in the institution in charge of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysInstitutionInformation
 
 		Manufacturer
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
-
+ - rules.sidecars.microephys.microephysSetup
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Manufacturer of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
 
 		ManufacturersModelName
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Manufacturer's model name of the equipment that produced the measurements.
-
+ - rules.sidecars.microephys.microephysSetup
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Manufacturer's model name of the equipment that produced the measurements.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Manufacturer's model name of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Manufacturer's model name of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Manufacturer's model name of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Manufacturer's model name of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Manufacturer's model name of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Manufacturer's model name of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Manufacturer's model name of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Manufacturer's model name of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
 
 		ManufacturersModelVersion
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Manufacturer's model version of the equipment that produced the measurements.
-
+ - rules.sidecars.microephys.microephysSetup
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Manufacturer's model version of the equipment that produced the measurements.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Manufacturer's model version of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Manufacturer's model version of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Manufacturer's model version of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Manufacturer's model version of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Manufacturer's model version of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Manufacturer's model version of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Manufacturer's model version of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Manufacturer's model version of the equipment that produced the measurements.
+ - rules.sidecars.microephys.microephysSetup
 
 		RecordingSetupName
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Custom name of the recording setup.
-
+ - rules.sidecars.microephys.microephysSetup
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Custom name of the recording setup.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Custom name of the recording setup.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Custom name of the recording setup.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Custom name of the recording setup.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Custom name of the recording setup.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Custom name of the recording setup.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Custom name of the recording setup.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Custom name of the recording setup.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Custom name of the recording setup.
+ - rules.sidecars.microephys.microephysSetup
 
 		DeviceSerialNumber
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: The serial number of the equipment that produced the measurements.
 A pseudonym can also be used to prevent the equipment from being
 identifiable, so long as each pseudonym is unique within the dataset.
-
+ - rules.sidecars.microephys.microephysSetup
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: The serial number of the equipment that produced the measurements.
 A pseudonym can also be used to prevent the equipment from being
 identifiable, so long as each pseudonym is unique within the dataset.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: The serial number of the equipment that produced the measurements.
+A pseudonym can also be used to prevent the equipment from being
+identifiable, so long as each pseudonym is unique within the dataset.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: The serial number of the equipment that produced the measurements.
+A pseudonym can also be used to prevent the equipment from being
+identifiable, so long as each pseudonym is unique within the dataset.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: The serial number of the equipment that produced the measurements.
+A pseudonym can also be used to prevent the equipment from being
+identifiable, so long as each pseudonym is unique within the dataset.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: The serial number of the equipment that produced the measurements.
+A pseudonym can also be used to prevent the equipment from being
+identifiable, so long as each pseudonym is unique within the dataset.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: The serial number of the equipment that produced the measurements.
+A pseudonym can also be used to prevent the equipment from being
+identifiable, so long as each pseudonym is unique within the dataset.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: The serial number of the equipment that produced the measurements.
+A pseudonym can also be used to prevent the equipment from being
+identifiable, so long as each pseudonym is unique within the dataset.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: The serial number of the equipment that produced the measurements.
+A pseudonym can also be used to prevent the equipment from being
+identifiable, so long as each pseudonym is unique within the dataset.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: The serial number of the equipment that produced the measurements.
+A pseudonym can also be used to prevent the equipment from being
+identifiable, so long as each pseudonym is unique within the dataset.
+ - rules.sidecars.microephys.microephysSetup
 
 		SoftwareName
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Name of the software that was used to present the stimuli.
-
+ - rules.sidecars.microephys.microephysSetup
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Name of the software that was used to present the stimuli.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Name of the software that was used to present the stimuli.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Name of the software that was used to present the stimuli.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Name of the software that was used to present the stimuli.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Name of the software that was used to present the stimuli.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Name of the software that was used to present the stimuli.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Name of the software that was used to present the stimuli.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Name of the software that was used to present the stimuli.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Name of the software that was used to present the stimuli.
+ - rules.sidecars.microephys.microephysSetup
 
 		SoftwareVersions
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Manufacturer's designation of software version of the equipment that produced
 the measurements.
-
+ - rules.sidecars.microephys.microephysSetup
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Manufacturer's designation of software version of the equipment that produced
 the measurements.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Manufacturer's designation of software version of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Manufacturer's designation of software version of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Manufacturer's designation of software version of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Manufacturer's designation of software version of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Manufacturer's designation of software version of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Manufacturer's designation of software version of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Manufacturer's designation of software version of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Manufacturer's designation of software version of the equipment that produced
+the measurements.
+ - rules.sidecars.microephys.microephysSetup
 
 		RecordingDuration
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
-
+ - rules.sidecars.microephys.microephysSetup
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Length of the recording in seconds (for example, `3600`).
+ - rules.sidecars.microephys.microephysSetup
 
 		RecordingType
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
 `"epoched"`, where `"epoched"` is limited to time windows about events of
 interest (for example, stimulus presentations or subject responses).
-
+ - rules.sidecars.microephys.microephysSetup
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
 `"epoched"`, where `"epoched"` is limited to time windows about events of
 interest (for example, stimulus presentations or subject responses).
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
+`"epoched"`, where `"epoched"` is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
+`"epoched"`, where `"epoched"` is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
+`"epoched"`, where `"epoched"` is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
+`"epoched"`, where `"epoched"` is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
+`"epoched"`, where `"epoched"` is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
+`"epoched"`, where `"epoched"` is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
+`"epoched"`, where `"epoched"` is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Defines whether the recording is `"continuous"`, `"discontinuous"`, or
+`"epoched"`, where `"epoched"` is limited to time windows about events of
+interest (for example, stimulus presentations or subject responses).
+ - rules.sidecars.microephys.microephysSetup
 
 		PharmaceuticalName
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Name of pharmaceutical.
-
+ - rules.sidecars.microephys.microephysPharmaceuticals
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Name of pharmaceutical.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Name of pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Name of pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Name of pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Name of pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Name of pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Name of pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Name of pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Name of pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
 
 		PharmaceuticalDoseAmount
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Dose amount of administered pharmaceutical.
-
+ - rules.sidecars.microephys.microephysPharmaceuticals
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Dose amount of administered pharmaceutical.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Dose amount of administered pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Dose amount of administered pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Dose amount of administered pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Dose amount of administered pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Dose amount of administered pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Dose amount of administered pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Dose amount of administered pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Dose amount of administered pharmaceutical.
+ - rules.sidecars.microephys.microephysPharmaceuticals
 
 		PharmaceuticalDoseUnits
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Unit format relating to pharmaceutical dose
 (for example, `"mg"` or `"mg/kg"`).
-
+ - rules.sidecars.microephys.microephysPharmaceuticals
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Unit format relating to pharmaceutical dose
 (for example, `"mg"` or `"mg/kg"`).
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Unit format relating to pharmaceutical dose
+(for example, `"mg"` or `"mg/kg"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Unit format relating to pharmaceutical dose
+(for example, `"mg"` or `"mg/kg"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Unit format relating to pharmaceutical dose
+(for example, `"mg"` or `"mg/kg"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Unit format relating to pharmaceutical dose
+(for example, `"mg"` or `"mg/kg"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Unit format relating to pharmaceutical dose
+(for example, `"mg"` or `"mg/kg"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Unit format relating to pharmaceutical dose
+(for example, `"mg"` or `"mg/kg"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Unit format relating to pharmaceutical dose
+(for example, `"mg"` or `"mg/kg"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Unit format relating to pharmaceutical dose
+(for example, `"mg"` or `"mg/kg"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
 
 		PharmaceuticalDoseRegimen
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Details of the pharmaceutical dose regimen.
 Either adequate description or short-code relating to regimen documented
 elsewhere (for example, `"single oral bolus"`).
-
+ - rules.sidecars.microephys.microephysPharmaceuticals
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Details of the pharmaceutical dose regimen.
 Either adequate description or short-code relating to regimen documented
 elsewhere (for example, `"single oral bolus"`).
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Details of the pharmaceutical dose regimen.
+Either adequate description or short-code relating to regimen documented
+elsewhere (for example, `"single oral bolus"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Details of the pharmaceutical dose regimen.
+Either adequate description or short-code relating to regimen documented
+elsewhere (for example, `"single oral bolus"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Details of the pharmaceutical dose regimen.
+Either adequate description or short-code relating to regimen documented
+elsewhere (for example, `"single oral bolus"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Details of the pharmaceutical dose regimen.
+Either adequate description or short-code relating to regimen documented
+elsewhere (for example, `"single oral bolus"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Details of the pharmaceutical dose regimen.
+Either adequate description or short-code relating to regimen documented
+elsewhere (for example, `"single oral bolus"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Details of the pharmaceutical dose regimen.
+Either adequate description or short-code relating to regimen documented
+elsewhere (for example, `"single oral bolus"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Details of the pharmaceutical dose regimen.
+Either adequate description or short-code relating to regimen documented
+elsewhere (for example, `"single oral bolus"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Details of the pharmaceutical dose regimen.
+Either adequate description or short-code relating to regimen documented
+elsewhere (for example, `"single oral bolus"`).
+ - rules.sidecars.microephys.microephysPharmaceuticals
 
 		PharmaceuticalDoseTime
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Time of administration of pharmaceutical dose, relative to time zero.
@@ -168,42 +480,146 @@ start and end of the infusion period. For more complex dose regimens,
 the regimen description should be complete enough to enable unambiguous
 interpretation of `"PharmaceuticalDoseTime"`.
 Unit format of the specified pharmaceutical dose time MUST be seconds.
-
+ - rules.sidecars.microephys.microephysPharmaceuticals
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Time of administration of pharmaceutical dose, relative to time zero.
 For an infusion, this should be a vector with two elements specifying the
 start and end of the infusion period. For more complex dose regimens,
 the regimen description should be complete enough to enable unambiguous
 interpretation of `"PharmaceuticalDoseTime"`.
 Unit format of the specified pharmaceutical dose time MUST be seconds.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Time of administration of pharmaceutical dose, relative to time zero.
+For an infusion, this should be a vector with two elements specifying the
+start and end of the infusion period. For more complex dose regimens,
+the regimen description should be complete enough to enable unambiguous
+interpretation of `"PharmaceuticalDoseTime"`.
+Unit format of the specified pharmaceutical dose time MUST be seconds.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Time of administration of pharmaceutical dose, relative to time zero.
+For an infusion, this should be a vector with two elements specifying the
+start and end of the infusion period. For more complex dose regimens,
+the regimen description should be complete enough to enable unambiguous
+interpretation of `"PharmaceuticalDoseTime"`.
+Unit format of the specified pharmaceutical dose time MUST be seconds.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Time of administration of pharmaceutical dose, relative to time zero.
+For an infusion, this should be a vector with two elements specifying the
+start and end of the infusion period. For more complex dose regimens,
+the regimen description should be complete enough to enable unambiguous
+interpretation of `"PharmaceuticalDoseTime"`.
+Unit format of the specified pharmaceutical dose time MUST be seconds.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Time of administration of pharmaceutical dose, relative to time zero.
+For an infusion, this should be a vector with two elements specifying the
+start and end of the infusion period. For more complex dose regimens,
+the regimen description should be complete enough to enable unambiguous
+interpretation of `"PharmaceuticalDoseTime"`.
+Unit format of the specified pharmaceutical dose time MUST be seconds.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Time of administration of pharmaceutical dose, relative to time zero.
+For an infusion, this should be a vector with two elements specifying the
+start and end of the infusion period. For more complex dose regimens,
+the regimen description should be complete enough to enable unambiguous
+interpretation of `"PharmaceuticalDoseTime"`.
+Unit format of the specified pharmaceutical dose time MUST be seconds.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Time of administration of pharmaceutical dose, relative to time zero.
+For an infusion, this should be a vector with two elements specifying the
+start and end of the infusion period. For more complex dose regimens,
+the regimen description should be complete enough to enable unambiguous
+interpretation of `"PharmaceuticalDoseTime"`.
+Unit format of the specified pharmaceutical dose time MUST be seconds.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Time of administration of pharmaceutical dose, relative to time zero.
+For an infusion, this should be a vector with two elements specifying the
+start and end of the infusion period. For more complex dose regimens,
+the regimen description should be complete enough to enable unambiguous
+interpretation of `"PharmaceuticalDoseTime"`.
+Unit format of the specified pharmaceutical dose time MUST be seconds.
+ - rules.sidecars.microephys.microephysPharmaceuticals
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Time of administration of pharmaceutical dose, relative to time zero.
+For an infusion, this should be a vector with two elements specifying the
+start and end of the infusion period. For more complex dose regimens,
+the regimen description should be complete enough to enable unambiguous
+interpretation of `"PharmaceuticalDoseTime"`.
+Unit format of the specified pharmaceutical dose time MUST be seconds.
+ - rules.sidecars.microephys.microephysPharmaceuticals
 
 		BodyPart
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Body part of the organ / body region scanned.
-
+ - rules.sidecars.microephys.microephysSample
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Body part of the organ / body region scanned.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Body part of the organ / body region scanned.
+ - rules.sidecars.microephys.microephysSample
 
 		BodyPartDetails
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
-
+ - rules.sidecars.microephys.microephysSample
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Additional details about body part or location (for example: `"corpus callosum"`).
+ - rules.sidecars.microephys.microephysSample
 
 		SampleEnvironment
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Environment in which the sample was imaged. MUST be one of: `"in vivo"`, `"ex vivo"`
 or `"in vitro"`.
-
+ - rules.sidecars.microephys.microephysSample
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Environment in which the sample was imaged. MUST be one of: `"in vivo"`, `"ex vivo"`
 or `"in vitro"`.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Environment in which the sample was imaged. MUST be one of: `"in vivo"`, `"ex vivo"`
+or `"in vitro"`.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Environment in which the sample was imaged. MUST be one of: `"in vivo"`, `"ex vivo"`
+or `"in vitro"`.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Environment in which the sample was imaged. MUST be one of: `"in vivo"`, `"ex vivo"`
+or `"in vitro"`.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Environment in which the sample was imaged. MUST be one of: `"in vivo"`, `"ex vivo"`
+or `"in vitro"`.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Environment in which the sample was imaged. MUST be one of: `"in vivo"`, `"ex vivo"`
+or `"in vitro"`.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Environment in which the sample was imaged. MUST be one of: `"in vivo"`, `"ex vivo"`
+or `"in vitro"`.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Environment in which the sample was imaged. MUST be one of: `"in vivo"`, `"ex vivo"`
+or `"in vitro"`.
+ - rules.sidecars.microephys.microephysSample
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Environment in which the sample was imaged. MUST be one of: `"in vivo"`, `"ex vivo"`
+or `"in vitro"`.
+ - rules.sidecars.microephys.microephysSample
 
 		TaskName
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Name of the task.
@@ -213,7 +629,7 @@ by removing all non-alphanumeric or `+` characters (that is, all except those ma
 and potentially replacing spaces with `+` to ease readability.
 For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond to task labels
 `faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.
-
+ - rules.sidecars.microephys.microephysTaskInformation
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Name of the task.
 No two tasks should have the same name.
 The task label included in the filename MAY be derived from this `"TaskName"` field
@@ -221,68 +637,228 @@ by removing all non-alphanumeric or `+` characters (that is, all except those ma
 and potentially replacing spaces with `+` to ease readability.
 For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond to task labels
 `faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Name of the task.
+No two tasks should have the same name.
+The task label included in the filename MAY be derived from this `"TaskName"` field
+by removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),
+and potentially replacing spaces with `+` to ease readability.
+For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond to task labels
+`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Name of the task.
+No two tasks should have the same name.
+The task label included in the filename MAY be derived from this `"TaskName"` field
+by removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),
+and potentially replacing spaces with `+` to ease readability.
+For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond to task labels
+`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Name of the task.
+No two tasks should have the same name.
+The task label included in the filename MAY be derived from this `"TaskName"` field
+by removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),
+and potentially replacing spaces with `+` to ease readability.
+For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond to task labels
+`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Name of the task.
+No two tasks should have the same name.
+The task label included in the filename MAY be derived from this `"TaskName"` field
+by removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),
+and potentially replacing spaces with `+` to ease readability.
+For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond to task labels
+`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Name of the task.
+No two tasks should have the same name.
+The task label included in the filename MAY be derived from this `"TaskName"` field
+by removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),
+and potentially replacing spaces with `+` to ease readability.
+For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond to task labels
+`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Name of the task.
+No two tasks should have the same name.
+The task label included in the filename MAY be derived from this `"TaskName"` field
+by removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),
+and potentially replacing spaces with `+` to ease readability.
+For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond to task labels
+`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Name of the task.
+No two tasks should have the same name.
+The task label included in the filename MAY be derived from this `"TaskName"` field
+by removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),
+and potentially replacing spaces with `+` to ease readability.
+For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond to task labels
+`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Name of the task.
+No two tasks should have the same name.
+The task label included in the filename MAY be derived from this `"TaskName"` field
+by removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),
+and potentially replacing spaces with `+` to ease readability.
+For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond to task labels
+`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.
+ - rules.sidecars.microephys.microephysTaskInformation
 
 		TaskDescription
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Longer description of the task.
-
+ - rules.sidecars.microephys.microephysTaskInformation
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Longer description of the task.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Longer description of the task.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Longer description of the task.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Longer description of the task.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Longer description of the task.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Longer description of the task.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Longer description of the task.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Longer description of the task.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Longer description of the task.
+ - rules.sidecars.microephys.microephysTaskInformation
 
 		Instructions
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: Text of the instructions given to participants before the recording.
-
+ - rules.sidecars.microephys.microephysTaskInformation
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: Text of the instructions given to participants before the recording.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: Text of the instructions given to participants before the recording.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: Text of the instructions given to participants before the recording.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: Text of the instructions given to participants before the recording.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: Text of the instructions given to participants before the recording.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: Text of the instructions given to participants before the recording.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: Text of the instructions given to participants before the recording.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: Text of the instructions given to participants before the recording.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: Text of the instructions given to participants before the recording.
+ - rules.sidecars.microephys.microephysTaskInformation
 
 		CogAtlasID
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
 Task term.
-
+ - rules.sidecars.microephys.microephysTaskInformation
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
 Task term.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
+Task term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
+Task term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
+Task term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
+Task term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
+Task term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
+Task term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
+Task term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
+Task term.
+ - rules.sidecars.microephys.microephysTaskInformation
 
 		CogPOID
 		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [CogPO](http://www.cogpo.org/) term.
-
+ - rules.sidecars.microephys.microephysTaskInformation
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [CogPO](http://www.cogpo.org/) term.
-
-
-		8 more files with the same issue
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [CogPO](http://www.cogpo.org/) term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [CogPO](http://www.cogpo.org/) term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [CogPO](http://www.cogpo.org/) term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [CogPO](http://www.cogpo.org/) term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [CogPO](http://www.cogpo.org/) term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [CogPO](http://www.cogpo.org/) term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [CogPO](http://www.cogpo.org/) term.
+ - rules.sidecars.microephys.microephysTaskInformation
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [CogPO](http://www.cogpo.org/) term.
+ - rules.sidecars.microephys.microephysTaskInformation
 
 	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.
 
 	[WARNING] TSV_COLUMN_TYPE_REDEFINED A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.
 		x
-		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_electrodes.json - Format "string" must be number
-		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_electrodes.json - Format "string" must be number
-
-		8 more files with the same issue
+		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
 
 		y
-		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_electrodes.json - Format "string" must be number
-		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_electrodes.json - Format "string" must be number
-
-		8 more files with the same issue
+		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
 
 		impedance
-		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_electrodes.json - Format "string" must be number
-		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_electrodes.json - Format "string" must be number
-
-		8 more files with the same issue
+		/sub-jlh31/ses-jlh31+2023+01+24+14+30+23/ecephys/sub-jlh31_ses-jlh31+2023+01+24+14+30+23_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_electrodes.json - Format "string" must be number - rules.tabular_data.microephys.microephysElectrodes
 
 	Please visit https://neurostars.org/search?q=TSV_COLUMN_TYPE_REDEFINED for existing conversations about this issue.
 
@@ -292,14 +868,52 @@ of the corresponding [CogPO](http://www.cogpo.org/) term.
 
 Field description: Sampling frequency (in Hz) of all the data in the recording,
 regardless of their type (for example, `2400`).
-
+ - rules.sidecars.microephys.microephysSetup
 		/sub-jlh40/ses-jlh40+2023+08+21+16+01+34/ecephys/sub-jlh40_ses-jlh40+2023+08+21+16+01+34_ecephys.json - must be number
 
 Field description: Sampling frequency (in Hz) of all the data in the recording,
 regardless of their type (for example, `2400`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh34/ses-jlh34+2023+05+15+16+03+21/ecephys/sub-jlh34_ses-jlh34+2023+05+15+16+03+21_ecephys.json - must be number
 
+Field description: Sampling frequency (in Hz) of all the data in the recording,
+regardless of their type (for example, `2400`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh19/ses-jlh19+2022+07+28+g0/ecephys/sub-jlh19_ses-jlh19+2022+07+28+g0_ecephys.json - must be number
 
-		8 more files with the same issue
+Field description: Sampling frequency (in Hz) of all the data in the recording,
+regardless of their type (for example, `2400`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh14/ses-jlh14+2022+06+14+g0/ecephys/sub-jlh14_ses-jlh14+2022+06+14+g0_ecephys.json - must be number
+
+Field description: Sampling frequency (in Hz) of all the data in the recording,
+regardless of their type (for example, `2400`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh33/ses-jlh33+2023+02+22+15+24+35/ecephys/sub-jlh33_ses-jlh33+2023+02+22+15+24+35_ecephys.json - must be number
+
+Field description: Sampling frequency (in Hz) of all the data in the recording,
+regardless of their type (for example, `2400`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh41/ses-jlh41+2023+09+18+14+52+47/ecephys/sub-jlh41_ses-jlh41+2023+09+18+14+52+47_ecephys.json - must be number
+
+Field description: Sampling frequency (in Hz) of all the data in the recording,
+regardless of their type (for example, `2400`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh32/ses-jlh32+2023+02+18+16+07+58/ecephys/sub-jlh32_ses-jlh32+2023+02+18+16+07+58_ecephys.json - must be number
+
+Field description: Sampling frequency (in Hz) of all the data in the recording,
+regardless of their type (for example, `2400`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh15/ses-jlh15+2022+06+15g0/ecephys/sub-jlh15_ses-jlh15+2022+06+15g0_ecephys.json - must be number
+
+Field description: Sampling frequency (in Hz) of all the data in the recording,
+regardless of their type (for example, `2400`).
+ - rules.sidecars.microephys.microephysSetup
+		/sub-jlh39/ses-jlh39+2023+08+16+11+52+30/ecephys/sub-jlh39_ses-jlh39+2023+08+16+11+52+30_ecephys.json - must be number
+
+Field description: Sampling frequency (in Hz) of all the data in the recording,
+regardless of their type (for example, `2400`).
+ - rules.sidecars.microephys.microephysSetup
 
 	Please visit https://neurostars.org/search?q=JSON_SCHEMA_VALIDATION_ERROR for existing conversations about this issue.
 
