@@ -1,0 +1,75 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "train_duration": {
+        "Description": "train duration (s)"
+    },
+    "train_period": {
+        "Description": "train period (s)"
+    },
+    "train_quantity": {
+        "Description": "train quantity"
+    },
+    "waveform_shape": {
+        "Description": "monophasic, biphasic or triphasic"
+    },
+    "run": {
+        "Description": "the run number where each run generally represents a unique parameter space"
+    },
+    "pulse_duration": {
+        "Description": "usecs"
+    },
+    "pulse_number": {
+        "Description": "event quantity"
+    },
+    "event_period": {
+        "Description": "milliseconds"
+    },
+    "amplitude": {
+        "Description": "amplitude in uA"
+    },
+    "contacts": {
+        "Description": "the stimulation contacts and polarities used on the stim electrode"
+    },
+    "contact_negative": {
+        "Description": "the negative (cathodal) contact for a trial"
+    },
+    "contact_positive": {
+        "Description": "the positive (anodal) contact used"
+    },
+    "polarity": {
+        "Description": "bipolar or monopolar"
+    },
+    "notes": {
+        "Description": "general notes from recording"
+    },
+    "contact_negative_coord": {
+        "Description": "the ccf coordinate for the cathodal contact"
+    },
+    "contact_positive_coord": {
+        "Description": "the ccf coordinate for the anodal contact"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file.",
+            "epochs": "The 'epochs' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial",
+            "epochs": "Time-block"
+        }
+    },
+    "trials": {
+        "Description": "experimental trials"
+    },
+    "epochs": {
+        "Description": "experimental epochs"
+    }
+}

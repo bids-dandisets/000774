@@ -1,0 +1,1352 @@
+onset	duration	nwb_table	train_duration	train_period	train_quantity	waveform_shape	run	pulse_duration	pulse_number	event_period	amplitude	contacts	contact_negative	contact_positive	polarity	notes
+2237.83251	3709.20183	epochs														
+2237.83251	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2239.8325	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2241.8325	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2243.83249	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2245.83249	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2247.83249	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2249.83248	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2251.83248	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2253.83248	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2255.83247	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2257.83247	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2259.83246	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2261.83246	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2263.83246	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2265.83245	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2267.83245	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2269.83244	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2271.83244	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2273.83244	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2275.83243	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2277.83243	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2279.83243	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2281.83242	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2283.83242	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2285.83241	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2287.83241	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2289.83241	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2291.8324	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2293.8324	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2295.83239	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2297.83239	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2299.83239	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2301.83238	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2303.83238	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2305.83238	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2307.83237	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2309.83237	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2311.83236	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2313.83236	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2315.83236	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2317.83235	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2319.83235	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2321.83234	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2323.83234	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2325.83234	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2327.83233	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2329.83233	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2331.83233	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2333.83232	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2335.83232	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2337.83231	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2339.83231	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2341.83231	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2343.8323	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2345.8323	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2347.83229	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2349.83229	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2351.83229	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2353.83228	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2355.83228	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2357.83228	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2359.83227	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2361.83227	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2363.83226	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2365.83226	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2367.83226	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2369.83225	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2371.83225	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2373.83224	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2375.83224	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2377.83224	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2379.83223	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2381.83223	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2383.83223	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2385.83222	2.0	trials	1.0	2.0	75.0	biphasic	0.0	100.0	1.0	10.0	10.0	16r,1b	16.0	1.0	bipolar	
+2427.81469	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2429.81468	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2431.81468	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2433.81468	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2435.81467	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2437.81467	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2439.81466	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2441.81466	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2443.81466	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2445.81465	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2447.81465	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2449.81464	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2451.81464	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2453.81464	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2455.81463	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2457.81463	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2459.81463	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2461.81462	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2463.81462	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2465.81461	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2467.81461	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2469.81461	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2471.8146	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2473.8146	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2475.81459	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2477.81459	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2479.81459	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2481.81458	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2483.81458	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2485.81458	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2487.81457	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2489.81457	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2491.81456	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2493.81456	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2495.81456	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2497.81455	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2499.81455	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2501.81455	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2503.81454	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2505.81454	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2507.81453	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2509.81453	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2511.81453	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2513.81452	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2515.81452	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2517.81451	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2519.81451	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2521.81451	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2523.8145	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2525.8145	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2527.8145	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2529.81449	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2531.81449	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2533.81448	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2535.81448	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2537.81448	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2539.81447	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2541.81447	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2543.81446	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2545.81446	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2547.81446	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2549.81445	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2551.81445	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2553.81445	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2555.81444	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2557.81444	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2559.81443	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2561.81443	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2563.81443	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2565.81442	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2567.81442	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2569.81441	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2571.81441	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2573.81441	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2575.8144	2.0	trials	1.0	2.0	75.0	biphasic	1.0	100.0	1.0	10.0	25.0	16r,1b	16.0	1.0	bipolar	
+2621.54177	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2623.54177	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2625.54176	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2627.54176	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2629.54176	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2631.54175	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2633.54175	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2635.54175	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2637.54174	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2639.54174	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2641.54173	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2643.54173	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2645.54173	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2647.54172	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2649.54172	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2651.54172	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2653.54171	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2655.54171	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2657.5417	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2659.5417	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2661.5417	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2663.54169	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2665.54169	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2667.54168	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2669.54168	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2671.54168	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2673.54167	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2675.54167	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2677.54167	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2679.54166	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2681.54166	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2683.54165	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2685.54165	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2687.54165	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2689.54164	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2691.54164	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2693.54163	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2695.54163	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2697.54163	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2699.54162	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2701.54162	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2703.54162	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2705.54161	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2707.54161	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2709.5416	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2711.5416	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2713.5416	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2715.54159	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2717.54159	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2719.54159	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2721.54158	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2723.54158	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2725.54157	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2727.54157	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2729.54157	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2731.54156	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2733.54156	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2735.54155	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2737.54155	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2739.54155	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2741.54154	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2743.54154	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2745.54154	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2747.54153	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2749.54153	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2751.54152	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2753.54152	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2755.54152	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2757.54151	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2759.54151	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2761.5415	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2763.5415	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2765.5415	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2767.54149	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2769.54149	2.0	trials	1.0	2.0	75.0	biphasic	2.0	100.0	1.0	10.0	50.0	16r,1b	16.0	1.0	bipolar	
+2791.54935	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2793.54934	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2795.54934	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2797.54934	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2799.54933	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2801.54933	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2803.54932	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2805.54932	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2807.54932	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2809.54931	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2811.54931	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2813.5493	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2815.5493	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2817.5493	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2819.54929	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2821.54929	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2823.54929	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2825.54928	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2827.54928	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2829.54927	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2831.54927	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2833.54927	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2835.54926	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2837.54926	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2839.54926	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2841.54925	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2843.54925	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2845.54924	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2847.54924	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2849.54924	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2851.54923	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2853.54923	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2855.54922	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2857.54922	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2859.54922	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2861.54921	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2863.54921	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2865.54921	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2867.5492	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2869.5492	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2871.54919	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2873.54919	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2875.54919	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2877.54918	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2879.54918	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2881.54918	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2883.54917	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2885.54917	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2887.54916	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2889.54916	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2891.54916	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2893.54915	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2895.54915	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2897.54915	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2899.54914	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2901.54914	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2903.54913	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2905.54913	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2907.54913	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2909.54912	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2911.54912	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2913.54911	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2915.54911	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2917.54911	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2919.5491	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2921.5491	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2923.5491	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2925.54909	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2927.54909	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2929.54908	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2931.54908	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2933.54908	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2935.54907	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2937.54907	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2939.54907	2.0	trials	1.0	2.0	75.0	biphasic	3.0	100.0	1.0	10.0	100.0	16r,1b	16.0	1.0	bipolar	
+2962.35374	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2964.35374	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2966.35374	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2968.35373	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2970.35373	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2972.35372	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2974.35372	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2976.35372	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2978.35371	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2980.35371	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2982.3537	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2984.3537	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2986.3537	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2988.35369	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2990.35369	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2992.35369	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2994.35368	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2996.35368	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+2998.35367	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3000.35367	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3002.35367	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3004.35366	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3006.35366	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3008.35366	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3010.35365	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3012.35365	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3014.35364	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3016.35364	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3018.35364	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3020.35363	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3022.35363	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3024.35363	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3026.35362	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3028.35362	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3030.35361	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3032.35361	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3034.35361	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3036.3536	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3038.3536	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3040.35359	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3042.35359	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3044.35359	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3046.35358	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3048.35358	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3050.35358	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3052.35357	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3054.35357	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3056.35356	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3058.35356	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3060.35356	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3062.35355	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3064.35355	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3066.35355	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3068.35354	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3070.35354	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3072.35353	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3074.35353	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3076.35353	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3078.35352	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3080.35352	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3082.35352	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3084.35351	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3086.35351	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3088.3535	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3090.3535	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3092.3535	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3094.35349	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3096.35349	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3098.35349	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3100.35348	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3102.35348	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3104.35347	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3106.35347	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3108.35347	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3110.35346	2.0	trials	1.0	2.0	75.0	biphasic	4.0	100.0	1.0	10.0	200.0	16r,1b	16.0	1.0	bipolar	
+3186.02518	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3188.02518	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3190.02518	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3192.02517	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3194.02517	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3196.02516	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3198.02516	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3200.02516	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3202.02515	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3204.02515	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3206.02515	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3208.02514	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3210.02514	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3212.02513	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3214.02513	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3216.02513	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3218.02512	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3220.02512	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3222.02512	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3224.02511	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3226.02511	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3228.0251	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3230.0251	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3232.0251	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3234.02509	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3236.02509	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3238.02508	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3240.02508	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3242.02508	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3244.02507	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3246.02507	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3248.02507	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3250.02506	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3252.02506	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3254.02505	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3256.02505	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3258.02505	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3260.02504	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3262.02504	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3264.02504	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3266.02503	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3268.02503	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3270.02502	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3272.02502	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3274.02502	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3276.02501	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3278.02501	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3280.025	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3282.025	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3284.025	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3286.02499	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3288.02499	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3290.02499	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3292.02498	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3294.02498	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3296.02497	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3298.02497	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3300.02497	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3302.02496	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3304.02496	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3306.02496	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3308.02495	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3310.02495	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3312.02494	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3314.02494	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3316.02494	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3318.02493	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3320.02493	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3322.02493	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3324.02492	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3326.02492	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3328.02491	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3330.02491	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3332.02491	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3334.0249	2.0	trials	1.0	2.0	75.0	biphasic	5.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3356.63179	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3358.63179	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3360.63178	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3362.63178	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3364.63177	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3366.63177	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3368.63177	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3370.63176	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3372.63176	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3374.63176	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3376.63175	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3378.63175	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3380.63174	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3382.63174	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3384.63174	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3386.63173	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3388.63173	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3390.63173	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3392.63172	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3394.63172	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3396.63171	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3398.63171	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3400.63171	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3402.6317	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3404.6317	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3406.63169	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3408.63169	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3410.63169	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3412.63168	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3414.63168	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3416.63168	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3418.63167	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3420.63167	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3422.63166	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3424.63166	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3426.63166	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3428.63165	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3430.63165	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3432.63165	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3434.63164	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3436.63164	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3438.63163	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3440.63163	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3442.63163	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3444.63162	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3446.63162	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3448.63162	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3450.63161	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3452.63161	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3454.6316	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3456.6316	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3458.6316	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3460.63159	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3462.63159	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3464.63159	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3466.63158	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3468.63158	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3470.63157	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3472.63157	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3474.63157	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3476.63156	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3478.63156	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3480.63155	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3482.63155	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3484.63155	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3486.63154	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3488.63154	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3490.63154	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3492.63153	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3494.63153	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3496.63152	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3498.63152	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3500.63152	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3502.63151	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3504.63151	2.0	trials	1.0	2.0	75.0	biphasic	6.0	100.0	1.0	10.0	50.0	16r, anodal	16.0	0.0	monopolar	
+3532.13899	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3534.13898	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3536.13898	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3538.13898	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3540.13897	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3542.13897	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3544.13897	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3546.13896	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3548.13896	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3550.13895	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3552.13895	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3554.13895	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3556.13894	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3558.13894	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3560.13894	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3562.13893	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3564.13893	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3566.13892	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3568.13892	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3570.13892	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3572.13891	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3574.13891	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3576.13891	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3578.1389	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3580.1389	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3582.13889	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3584.13889	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3586.13889	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3588.13888	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3590.13888	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3592.13888	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3594.13887	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3596.13887	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3598.13886	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3600.13886	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3602.13886	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3604.13885	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3606.13885	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3608.13885	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3610.13884	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3612.13884	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3614.13883	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3616.13883	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3618.13883	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3620.13882	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3622.13882	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3624.13881	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3626.13881	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3628.13881	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3630.1388	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3632.1388	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3634.1388	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3636.13879	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3638.13879	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3640.13878	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3642.13878	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3644.13878	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3646.13877	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3648.13877	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3650.13877	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3652.13876	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3654.13876	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3656.13875	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3658.13875	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3660.13875	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3662.13874	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3664.13874	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3666.13874	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3668.13873	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3670.13873	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3672.13872	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3674.13872	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3676.13872	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3678.13871	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3680.13871	2.0	trials	1.0	2.0	75.0	biphasic	7.0	100.0	1.0	10.0	100.0	16r, anodal	16.0	0.0	monopolar	
+3743.08552	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3745.08551	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3747.08551	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3749.08551	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3751.0855	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3753.0855	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3755.08549	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3757.08549	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3759.08549	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3761.08548	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3763.08548	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3765.08548	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3767.08547	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3769.08547	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3771.08546	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3773.08546	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3775.08546	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3777.08545	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3779.08545	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3781.08545	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3783.08544	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3785.08544	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3787.08543	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3789.08543	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3791.08543	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3793.08542	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3795.08542	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3797.08542	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3799.08541	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3801.08541	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3803.0854	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3805.0854	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3807.0854	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3809.08539	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3811.08539	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3813.08539	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3815.08538	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3817.08538	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3819.08537	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3821.08537	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3823.08537	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3825.08536	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3827.08536	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3829.08536	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3831.08535	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3833.08535	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3835.08534	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3837.08534	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3839.08534	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3841.08533	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3843.08533	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3845.08532	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3847.08532	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3849.08532	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3851.08531	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3853.08531	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3855.08531	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3857.0853	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3859.0853	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3861.08529	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3863.08529	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3865.08529	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3867.08528	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3869.08528	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3871.08528	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3873.08527	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3875.08527	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3877.08526	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3879.08526	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3881.08526	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3883.08525	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3885.08525	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3887.08525	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3889.08524	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3891.08524	2.0	trials	1.0	2.0	75.0	biphasic	8.0	100.0	1.0	10.0	200.0	16r, anodal	16.0	0.0	monopolar	
+3994.58538	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3996.58537	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+3998.58537	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+4000.58536	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+4002.58536	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+4004.58536	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+4006.58535	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+4008.58535	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+4010.58534	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+4012.58534	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+4014.58534	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+4016.58533	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+4018.58533	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	16r, anodal	16.0	0.0	monopolar	
+4020.58533	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4022.58532	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4024.58532	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4026.58531	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4028.58531	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4030.58531	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4032.5853	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4034.5853	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4036.5853	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4038.58529	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4040.58529	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4042.58528	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4044.58528	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4046.58528	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4048.58527	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4050.58527	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4052.58527	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4054.58526	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4056.58526	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4058.58525	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4060.58525	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4062.58525	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4064.58524	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4066.58524	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4068.58524	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4070.58523	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4072.58523	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4074.58522	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4076.58522	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4078.58522	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4080.58521	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4082.58521	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4084.58521	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4086.5852	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4088.5852	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4090.58519	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4092.58519	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4094.58519	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4096.58518	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4098.58518	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4100.58518	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4102.58517	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4104.58517	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4106.58516	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4108.58516	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4110.58516	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4112.58515	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4114.58515	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4116.58515	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4118.58514	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4120.58514	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4122.58513	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4124.58513	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4126.58513	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4128.58512	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4130.58512	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4132.58512	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4134.58511	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4136.58511	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4138.5851	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4140.5851	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4142.5851	2.0	trials	1.0	2.0	75.0	biphasic	9.0	100.0	1.0	10.0	25.0	1b/16b, cathodal		1.0	bipolar	
+4199.81062	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4201.81062	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4203.81062	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4205.81061	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4207.81061	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4209.81061	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4211.8106	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4213.8106	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4215.81059	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4217.81059	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4219.81059	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4221.81058	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4223.81058	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4225.81058	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4227.81057	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4229.81057	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4231.81056	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4233.81056	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4235.81056	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4237.81055	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4239.81055	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4241.81055	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4243.81054	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4245.81054	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4247.81053	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4249.81053	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4251.81053	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4253.81052	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4255.81052	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4257.81052	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4259.81051	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4261.81051	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4263.8105	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4265.8105	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4267.8105	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4269.81049	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4271.81049	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4273.81049	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4275.81048	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4277.81048	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4279.81047	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4281.81047	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4283.81047	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4285.81046	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4287.81046	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4289.81046	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4291.81045	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4293.81045	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4295.81044	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4297.81044	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4299.81044	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4301.81043	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4303.81043	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4305.81043	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4307.81042	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4309.81042	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4311.81041	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4313.81041	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4315.81041	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4317.8104	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4319.8104	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4321.8104	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4323.81039	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4325.81039	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4327.81038	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4329.81038	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4331.81038	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4333.81037	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4335.81037	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4337.81037	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4339.81036	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4341.81036	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4343.81035	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4345.81035	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4347.81035	2.0	trials	1.0	2.0	75.0	biphasic	10.0	100.0	1.0	10.0	50.0	1b/16b, cathodal		1.0	bipolar	
+4377.43786	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4379.43786	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4381.43785	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4383.43785	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4385.43785	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4387.43784	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4389.43784	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4391.43784	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4393.43783	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4395.43783	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4397.43782	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4399.43782	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4401.43782	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4403.43781	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4405.43781	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4407.43781	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4409.4378	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4411.4378	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4413.43779	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4415.43779	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4417.43779	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4419.43778	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4421.43778	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4423.43778	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4425.43777	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4427.43777	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4429.43776	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4431.43776	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4433.43776	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4435.43775	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4437.43775	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4439.43775	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4441.43774	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4443.43774	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4445.43773	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4447.43773	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4449.43773	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4451.43772	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4453.43772	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4455.43772	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4457.43771	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4459.43771	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4461.4377	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4463.4377	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4465.4377	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4467.43769	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4469.43769	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4471.43769	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4473.43768	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4475.43768	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4477.43767	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4479.43767	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4481.43767	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4483.43766	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4485.43766	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4487.43766	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4489.43765	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4491.43765	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4493.43765	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4495.43764	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4497.43764	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4499.43763	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4501.43763	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4503.43763	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4505.43762	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4507.43762	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4509.43762	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4511.43761	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4513.43761	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4515.4376	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4517.4376	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4519.4376	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4521.43759	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4523.43759	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4525.43759	2.0	trials	1.0	2.0	75.0	biphasic	11.0	100.0	1.0	10.0	100.0	1b/16b, cathodal		1.0	bipolar	
+4562.37295	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4564.37295	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4566.37294	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4568.37294	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4570.37294	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4572.37293	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4574.37293	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4576.37292	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4578.37292	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4580.37292	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4582.37291	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4584.37291	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4586.37291	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4588.3729	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4590.3729	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4592.37289	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4594.37289	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4596.37289	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4598.37288	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4600.37288	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4602.37288	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4604.37287	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4606.37287	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4608.37287	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4610.37286	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4612.37286	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4614.37285	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4616.37285	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4618.37285	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4620.37284	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4622.37284	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4624.37284	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4626.37283	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4628.37283	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4630.37282	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4632.37282	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4634.37282	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4636.37281	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4638.37281	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4640.37281	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4642.3728	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4644.3728	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4646.37279	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4648.37279	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4650.37279	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4652.37278	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4654.37278	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4656.37278	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4658.37277	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4660.37277	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4662.37276	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4664.37276	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4666.37276	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4668.37275	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4670.37275	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4672.37275	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4674.37274	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4676.37274	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4678.37273	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4680.37273	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4682.37273	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4684.37272	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4686.37272	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4688.37272	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4690.37271	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4692.37271	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4694.3727	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4696.3727	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4698.3727	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4700.37269	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4702.37269	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4704.37269	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4706.37268	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4708.37268	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4710.37267	2.0	trials	1.0	2.0	75.0	biphasic	12.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4812.45802	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4814.45801	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4816.45801	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4818.458	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4820.458	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4822.458	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4824.45799	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4826.45799	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4828.45799	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4830.45798	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4832.45798	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4834.45797	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4836.45797	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4838.45797	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4840.45796	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4842.45796	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4844.45796	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4846.45795	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4848.45795	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4850.45794	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4852.45794	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4854.45794	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4856.45793	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4858.45793	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4860.45793	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4862.45792	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4864.45792	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4866.45791	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4868.45791	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4870.45791	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4872.4579	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4874.4579	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4876.4579	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4878.45789	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4880.45789	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4882.45788	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4884.45788	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4886.45788	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4888.45787	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4890.45787	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4892.45787	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4894.45786	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4896.45786	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4898.45785	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4900.45785	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4902.45785	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4904.45784	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4906.45784	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4908.45784	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4910.45783	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4912.45783	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4914.45782	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4916.45782	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4918.45782	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4920.45781	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4922.45781	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4924.45781	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4926.4578	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4928.4578	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4930.45779	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4932.45779	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4934.45779	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4936.45778	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4938.45778	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4940.45778	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4942.45777	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4944.45777	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4946.45776	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4948.45776	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4950.45776	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4952.45775	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4954.45775	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4956.45775	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4958.45774	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4960.45774	2.0	trials	1.0	2.0	75.0	biphasic	13.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4996.039	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+4998.039	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5000.03899	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5002.03899	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5004.03899	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5006.03898	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5008.03898	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5010.03897	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5012.03897	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5014.03897	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5016.03896	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5018.03896	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5020.03896	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5022.03895	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5024.03895	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5026.03894	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5028.03894	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5030.03894	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5032.03893	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5034.03893	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5036.03893	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5038.03892	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5040.03892	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5042.03891	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5044.03891	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5046.03891	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5048.0389	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5050.0389	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5052.0389	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5054.03889	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5056.03889	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5058.03888	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5060.03888	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5062.03888	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5064.03887	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5066.03887	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5068.03887	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5070.03886	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5072.03886	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5074.03885	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5076.03885	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5078.03885	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5080.03884	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5082.03884	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5084.03884	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5086.03883	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5088.03883	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5090.03882	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5092.03882	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5094.03882	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5096.03881	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5098.03881	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5100.03881	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5102.0388	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5104.0388	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5106.03879	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5108.03879	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5110.03879	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5112.03878	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5114.03878	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5116.03878	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5118.03877	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5120.03877	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5122.03876	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5124.03876	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5126.03876	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5128.03875	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5130.03875	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5132.03875	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5134.03874	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5136.03874	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5138.03873	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5140.03873	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5142.03873	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5144.03872	2.0	trials	1.0	2.0	75.0	biphasic	14.0	100.0	1.0	10.0	200.0	1b/16b, cathodal		1.0	bipolar	
+5323.63723	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5325.63723	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5327.63723	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5329.63722	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5331.63722	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5333.63722	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5335.63721	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5337.63721	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5339.6372	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5341.6372	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5343.6372	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5345.63719	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5347.63719	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5349.63719	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5351.63718	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5353.63718	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5355.63717	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5357.63717	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5359.63717	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5361.63716	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5363.63716	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5365.63716	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5367.63715	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5369.63715	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5371.63715	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5373.63714	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5375.63714	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5377.63713	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5379.63713	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5381.63713	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5383.63712	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5385.63712	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5387.63712	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5389.63711	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5391.63711	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5393.6371	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5395.6371	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5397.6371	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5399.63709	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5401.63709	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5403.63709	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5405.63708	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5407.63708	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5409.63707	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5411.63707	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5413.63707	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5415.63706	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5417.63706	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5419.63706	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5421.63705	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5423.63705	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5425.63704	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5427.63704	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5429.63704	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5431.63703	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5433.63703	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5435.63703	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5437.63702	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5439.63702	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5441.63701	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5443.63701	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5445.63701	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5447.637	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5449.637	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5451.637	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5453.63699	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5455.63699	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5457.63698	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5459.63698	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5461.63698	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5463.63697	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5465.63697	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5467.63697	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5469.63696	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5471.63696	2.0	trials	1.0	2.0	75.0	biphasic	15.0	100.0	1.0	10.0	100.0	1b/5r	5.0	1.0	bipolar	
+5530.31129	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5532.31129	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5534.31128	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5536.31128	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5538.31128	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5540.31127	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5542.31127	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5544.31126	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5546.31126	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5548.31126	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5550.31125	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5552.31125	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5554.31125	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5556.31124	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5558.31124	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5560.31123	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5562.31123	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5564.31123	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5566.31122	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5568.31122	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5570.31122	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5572.31121	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5574.31121	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5576.3112	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5578.3112	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5580.3112	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5582.31119	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5584.31119	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5586.31119	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5588.31118	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5590.31118	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5592.31117	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5594.31117	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5596.31117	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5598.31116	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5600.31116	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5602.31116	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5604.31115	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5606.31115	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5608.31114	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5610.31114	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5612.31114	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5614.31113	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5616.31113	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5618.31113	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5620.31112	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5622.31112	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5624.31111	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5626.31111	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5628.31111	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5630.3111	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5632.3111	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5634.3111	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5636.31109	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5638.31109	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5640.31109	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5642.31108	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5644.31108	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5646.31107	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5648.31107	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5650.31107	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5652.31106	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5654.31106	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5656.31106	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5658.31105	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5660.31105	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5662.31104	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5664.31104	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5666.31104	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5668.31103	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5670.31103	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5672.31103	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5674.31102	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5676.31102	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5678.31101	2.0	trials	1.0	2.0	75.0	biphasic	16.0	100.0	1.0	10.0	100.0	1b/2r	2.0	1.0	bipolar	
+5799.03462	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5801.03462	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5803.03461	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5805.03461	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5807.03461	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5809.0346	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5811.0346	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5813.03459	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5815.03459	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5817.03459	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5819.03458	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5821.03458	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5823.03458	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5825.03457	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5827.03457	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5829.03456	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5831.03456	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5833.03456	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5835.03455	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5837.03455	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5839.03455	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5841.03454	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5843.03454	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5845.03454	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5847.03453	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5849.03453	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5851.03452	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5853.03452	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5855.03452	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5857.03451	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5859.03451	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5861.03451	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5863.0345	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5865.0345	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5867.03449	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5869.03449	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5871.03449	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5873.03448	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5875.03448	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5877.03448	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5879.03447	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5881.03447	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5883.03446	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5885.03446	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5887.03446	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5889.03445	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5891.03445	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5893.03445	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5895.03444	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5897.03444	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5899.03443	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5901.03443	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5903.03443	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5905.03442	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5907.03442	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5909.03442	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5911.03441	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5913.03441	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5915.0344	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5917.0344	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5919.0344	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5921.03439	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5923.03439	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5925.03439	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5927.03438	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5929.03438	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5931.03437	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5933.03437	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5935.03437	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5937.03436	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5939.03436	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5941.03436	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5943.03435	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5945.03435	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
+5947.03434	2.0	trials	1.0	2.0	75.0	biphasic	17.0	100.0	1.0	10.0	100.0	1b/4r	4.0	1.0	bipolar	
